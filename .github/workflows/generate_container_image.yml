@@ -7,7 +7,7 @@ on:
 
 env:
   IMAGE_REPOSITORY: fiapsoat2grupo13
-  IMAGE_NAME: `hackathon-localstack-resources
+  IMAGE_NAME: hackathon-localstack-resources
   DEFAULT_TAG: latest
 
 jobs:
